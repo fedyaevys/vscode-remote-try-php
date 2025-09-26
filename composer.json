@@ -1,0 +1,12 @@
+{
+    "name": "vscode/vscode-remote-try-php",
+    "authors": [
+        {
+            "name": "fedyaevys",
+            "email": "34756804+fedyaevys@users.noreply.github.com"
+        }
+    ],
+    "require-dev": {
+        "smeghead/php-class-diagram": "^1.5"
+    }
+}
