@@ -1,5 +1,7 @@
 {
     "cSpell.words": [
         "программирование"
-    ]
+    ],
+    "plantuml.render": "PlantUMLServer",
+    "plantuml.server": "https://www.plantuml.com/plantuml"
 }
